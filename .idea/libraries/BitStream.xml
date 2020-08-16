@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BitStream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LIBS/BitStream.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
